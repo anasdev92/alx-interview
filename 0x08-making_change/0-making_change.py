@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3101f9c30d88b062099a1054fca0dadad3da2f2d
 #!/usr/bin/python3
 """Making Change Problem"""
 
